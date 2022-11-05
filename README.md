@@ -19,6 +19,9 @@ npm run build --report
 
 # origin vue version
 2.5.2 
+
+# current vue version
+2.7.13 
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
